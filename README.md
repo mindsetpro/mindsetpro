@@ -1,26 +1,4 @@
-# Welcome to my github profile!
----
-# ⚙ skills
+Just a Developer for python csharp c++ java javascript dartlang html css and many more...
+discord.gg/godkuprojectreborn - the server i'm mainly in
 
-Python
---
-Java
---
-Javascript
---
-csharp
---
-c++
---
-c
---
-
-### my stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindsetpro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mindsetpro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-### current projects
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GodkuHacking&repo=DBLegendsModdingTools)](https://github.com/GodkuHacking/DBLegendsModdingTools)
+making a steam framework for new ui designs and better features/customization 👀
